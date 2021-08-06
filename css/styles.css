@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+.image-container {
+    /* position: relative;
+    right: 350px;
+    bottom: 10px; */
+}
+
+.card-container {
+    display: flex;
+    margin: 0 auto 0 auto;
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+}
+
+.sedan-container {
+    background-color: hsl(31, 77%, 52%);
+    margin: 10px;
+    padding: 50px;
+    width: 220px;
+    height: 400px;
+}
+
+/* .suvs-container {
+    width: 110px;
+}
+
+.luxury-container {
+    width: 110px;
+} */
